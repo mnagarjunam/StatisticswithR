@@ -1,0 +1,9 @@
+pbinom(3,5,0.95)
+dbinom(4,5,0.95)+dbinom(5,5,0.95)
+dbinom(0,20,0.2)+dbinom(1,20,0.2)+dbinom(2,20,0.2)+dbinom(3,20,0.2)+dbinom(4,20,0.2)
+dbinom(5,size=20,prob=0.2)+dbinom(6,size=20,prob=0.2)+dbinom(7,size=20,prob=0.2)+
+dbinom(8,size=20,prob=0.2)+dbinom(9,size=20,prob=0.2)+dbinom(10,size=20,prob=0.2)+
+dbinom(11,size=20,prob=0.2)+dbinom(12,size=20,prob=0.2)+dbinom(13,size=20,prob=0.2)+
+dbinom(14,size=20,prob=0.2)+dbinom(15,size=20,prob=0.2)+dbinom(16,size=20,prob=0.2)+
+dbinom(17,size=20,prob=0.2)+dbinom(18,size=20,prob=0.2)+dbinom(19,size=20,prob=0.2)+
+dbinom(20,size=20,prob=0.2)

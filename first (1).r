@@ -1,0 +1,5 @@
+x <- c(2,5,3,7,1,9,6)
+print(length(x))
+print(x[length(x)])
+print(min(x))
+print(max(x))
